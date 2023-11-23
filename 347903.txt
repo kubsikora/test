@@ -1,2 +1,2 @@
 test2 on test_branch 
-merge cw2
+merge cw2 bez konfliktu
